@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cantordelnard
-- 🌏 I'm from Philippines
+- 🌏 I'm from The Philippines
 - 🤖 I’m interested in Science and Technology
-- 👨🏼‍💻 I’m currently studying BS Information Technology
+- 👨🏼‍💻 I’m currently studying BS in Information Technology
 
 
 <!---
